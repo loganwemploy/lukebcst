@@ -149,7 +149,8 @@ return (
    
       </span>
     </p>
-    <p class="text-gray-700 leading-relaxed text-xl">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, nobis? Neque dolor magnam modi molestias, reiciendis quas nobis excepturi libero praesentium deserunt optio, veritatis animi eius expedita quam nam sapiente vero blanditiis qui. Perspiciatis iusto quam eum odio, quasi maxime!</p>
+    <p class="text-gray-700 leading-relaxed text-xl">With [number] years dedicated to biodynamic craniosacral therapy, I bring a passion for holistic healing and profound client-centered care. My journey began with [briefly mention how you started or what inspired you], shaping my expertise in [list specialties such as trauma recovery, pain management, prenatal care]. Trained extensively in [mention education, certifications, or notable training], I offer personalized treatments that honor each individual's unique needs.
+ I am committed to guiding you towards optimal health and wellbeing.!</p>
     <div class="flex justify-between mt-10">
       <a href="#" class="inline-block capitalize font-semibold text-lg 
       text-white border-2 border-black rounded-full py-2 px-4  hover:text-black button-cta">Learn More</a>

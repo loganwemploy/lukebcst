@@ -129,7 +129,7 @@ return (
         <div class="card-img">
           <img src="https://dl3.pushbulletusercontent.com/q6TBRe2V0uUeJBBYT4Pr89xnSkRuA6hb/image.png" alt="Luke Sterling" />
             <div class="card-img-overlay">
-              {/*<p style={{fontSize:'2em',padding:'0.15em'}}>🧑</p>*/}
+              <p style={{fontSize:'2em',padding:'0.15em'}}>Luke</p>
             </div>
         </div>
         <div class="card-content">
